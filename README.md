@@ -4,6 +4,8 @@
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=LDRdev&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ## Tecnologias que eu utilizo ou já utilizei
 
 <div style="display: inline_block"><br/>
